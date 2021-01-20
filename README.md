@@ -5,3 +5,4 @@
 This is a training project that tests React Router functionalities. Connected to Fornite API (in a "Shop" section).
 
 ## Deployed website
+https://react-router-subakmil.netlify.app/
